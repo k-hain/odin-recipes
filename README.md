@@ -1,4 +1,4 @@
-An assignment done for the Foundations Course of The Odin Project.
+An assignment done for the Foundations Course at The Odin Project.
 
 The objective was to create a simple web page with cooking recipes.
 
