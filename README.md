@@ -1,5 +1,8 @@
-An assignment done for the Foundations Course of The Odin Project. It consists of a index page containing links to a number of recipes.
+An assignment done for the Foundations Course of The Odin Project.
 
-Main skills to practice in this assignment:
-* Basic HTML.
-* Working with Git and GitHub.
+The objective was to create a simple web page with cooking recipes.
+
+The assignment helped me with:
+* Solidifying my basics with HTML.
+* Getting more accustomed with Git and GitHub.
+* Practicing using the Unix Terminal.
